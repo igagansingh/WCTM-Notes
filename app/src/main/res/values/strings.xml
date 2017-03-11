@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WCTM Notes</string>
+    <string name="branch">Branch</string>
+    <string name="semester">Semester</string>
+    <string name="subjects">Subject</string>
+    <string name="teachers">Teachers</string>
 </resources>

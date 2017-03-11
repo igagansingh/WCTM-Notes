@@ -262,12 +262,12 @@ public class SubjectsActivity extends AppCompatActivity {
             case "IT":
                 switch (semester){
                     case "One": subjectsItSemOne = new ArrayList<>();
-                        subjectsItSemOne.add(" Essentials of Communication");
-                        subjectsItSemOne.add(" Mathematics-I ");              //subjectsItSemOne
+                        subjectsItSemOne.add("Essentials of Communication");
+                        subjectsItSemOne.add("Mathematics-I ");              //subjectsItSemOne
                         subjectsItSemOne.add("Physics-I");
-                        subjectsItSemOne.add(" Basics of Electronics");
-                        subjectsItSemOne.add(" FUNDAMENTAL OF COMPUTERS & PROGRAMMING IN C");
-                        subjectsItSemOne.add(" BASICS OF MECHANICAL ENGG.");
+                        subjectsItSemOne.add("Basics of Electronics");
+                        subjectsItSemOne.add("Fundamental of Computers & Programming in C");
+                        subjectsItSemOne.add("Basic of Mechanical engineering");
 
                         semAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_expandable_list_item_1, subjectsItSemOne);
                         listView.setAdapter(semAdapter);
@@ -290,7 +290,6 @@ public class SubjectsActivity extends AppCompatActivity {
                         subjectsItSemTwo.add(" ELECTRICAL TECHNOLOGY ");
                         subjectsItSemTwo.add(" PHYSICS-2 ");
                         subjectsItSemTwo.add(" Communication Skills in English ");
-                        subjectsItSemTwo.add("Subject 6");
 
                         semAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_expandable_list_item_1, subjectsItSemTwo);
                         listView.setAdapter(semAdapter);
@@ -331,12 +330,12 @@ public class SubjectsActivity extends AppCompatActivity {
                         break;
                     case "Four":
                         subjectsItSemFour = new ArrayList<>();
-                        subjectsItSemFour.add("Data Base Management Systems ");
-                        subjectsItSemFour.add(" Programming Languages ");
-                        subjectsItSemFour.add("Multimedia Technologies ");
+                        subjectsItSemFour.add("Data Base Management Systems");
+                        subjectsItSemFour.add("Programming Languages");
+                        subjectsItSemFour.add("Multimedia Technologies");
                         subjectsItSemFour.add("Object-Oriented Programming using C++");
                         subjectsItSemFour.add("Internet Fundamentals");
-                        subjectsItSemFour.add("Computer Architecture and Organization ");
+                        subjectsItSemFour.add("Computer Architecture and Organization");
 
                         semAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_expandable_list_item_1, subjectsItSemFour);
                         listView.setAdapter(semAdapter);

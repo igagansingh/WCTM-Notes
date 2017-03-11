@@ -4,8 +4,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:icon="@drawable/wctm"
+        android:label="@string/branch"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
@@ -15,9 +15,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SubjectsActivity" />
-        <activity android:name=".SemesterActivity" />
-        <activity android:name=".TeachersActivity"></activity>
+        <activity android:name=".SubjectsActivity"
+            android:label="@string/subjects"
+            android:icon="@drawable/wctm"/>
+        <activity android:name=".SemesterActivity"
+            android:label="@string/semester"
+            android:icon="@drawable/wctm"/>
+        <activity android:name=".TeachersActivity"
+            android:label="@string/teachers"
+            android:icon="@drawable/wctm"/>
     </application>
 
 </manifest>
