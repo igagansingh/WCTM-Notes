@@ -39,7 +39,7 @@ public class TeachersActivity extends AppCompatActivity {
                 switch (semester){
                     case "One":
                         switch (subject){
-                            case "Subject 1":
+                            case "Essentials of Communication":
                                 teacherCseSemOneSubject1 = new ArrayList<>();
                                 teacherCseSemOneSubject1.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject1.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -49,7 +49,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject1);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 2":
+                            case "Mathematics-I":
                                 teacherCseSemOneSubject2 = new ArrayList<>();
                                 teacherCseSemOneSubject2.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject2.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -60,7 +60,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject2);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 3":
+                            case "Physics-I":
                                 teacherCseSemOneSubject3 = new ArrayList<>();
                                 teacherCseSemOneSubject3.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject3.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -71,7 +71,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject3);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 4":
+                            case "Basics of Electronics":
                                 teacherCseSemOneSubject4 = new ArrayList<>();
                                 teacherCseSemOneSubject4.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject4.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -82,7 +82,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject4);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 5":
+                            case "Fundamental of Computers & Programming in C":
                                 teacherCseSemOneSubject5 = new ArrayList<>();
                                 teacherCseSemOneSubject5.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject5.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -93,7 +93,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject5);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 6":
+                            case "Basic of Mechanical engineering":
                                 teacherCseSemOneSubject6 = new ArrayList<>();
                                 teacherCseSemOneSubject6.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject6.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -109,7 +109,7 @@ public class TeachersActivity extends AppCompatActivity {
 
                     case "Two":
                         switch (subject){
-                            case "Subject 1":
+                            case "Maths (M-2)":
                                 teacherCseSemOneSubject1 = new ArrayList<>();
                                 teacherCseSemOneSubject1.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject1.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -119,7 +119,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject1);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 2":
+                            case "Physics (P-2)":
                                 teacherCseSemOneSubject2 = new ArrayList<>();
                                 teacherCseSemOneSubject2.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject2.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -130,7 +130,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject2);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 3":
+                            case "English":
                                 teacherCseSemOneSubject3 = new ArrayList<>();
                                 teacherCseSemOneSubject3.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject3.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -141,7 +141,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject3);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 4":
+                            case "Chemistry":
                                 teacherCseSemOneSubject4 = new ArrayList<>();
                                 teacherCseSemOneSubject4.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject4.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -152,7 +152,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject4);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 5":
+                            case "Electrical Technology (ET)":
                                 teacherCseSemOneSubject5 = new ArrayList<>();
                                 teacherCseSemOneSubject5.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject5.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -161,17 +161,6 @@ public class TeachersActivity extends AppCompatActivity {
 
 
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject5);
-                                listView.setAdapter(teachersAdapter);
-                                break;
-                            case "Subject 6":
-                                teacherCseSemOneSubject6 = new ArrayList<>();
-                                teacherCseSemOneSubject6.add("Teacher A " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject6.add("Teacher B " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject6.add("Teacher C " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject6.add("Teacher D " + branch + " "+ semester + " " + subject);
-
-
-                                teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject6);
                                 listView.setAdapter(teachersAdapter);
                                 break;
                         }
@@ -179,7 +168,7 @@ public class TeachersActivity extends AppCompatActivity {
 
                     case "Three":
                         switch (subject){
-                            case "Subject 1":
+                            case "Mathematics III":
                                 teacherCseSemOneSubject1 = new ArrayList<>();
                                 teacherCseSemOneSubject1.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject1.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -189,7 +178,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject1);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 2":
+                            case "Data Structures & Algorithms":
                                 teacherCseSemOneSubject2 = new ArrayList<>();
                                 teacherCseSemOneSubject2.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject2.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -200,7 +189,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject2);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 3":
+                            case "Discrete Structures":
                                 teacherCseSemOneSubject3 = new ArrayList<>();
                                 teacherCseSemOneSubject3.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject3.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -211,7 +200,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject3);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 4":
+                            case "Digital & Analog Communication":
                                 teacherCseSemOneSubject4 = new ArrayList<>();
                                 teacherCseSemOneSubject4.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject4.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -222,7 +211,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject4);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 5":
+                            case "Digital Electronics":
                                 teacherCseSemOneSubject5 = new ArrayList<>();
                                 teacherCseSemOneSubject5.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject5.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -233,7 +222,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject5);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 6":
+                            case "Fundamental of Management (FOM)":
                                 teacherCseSemOneSubject6 = new ArrayList<>();
                                 teacherCseSemOneSubject6.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject6.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -249,7 +238,7 @@ public class TeachersActivity extends AppCompatActivity {
 
                     case "Four":
                         switch (subject){
-                            case "Subject 1":
+                            case "Internet Foundamental (IF)":
                                 teacherCseSemOneSubject1 = new ArrayList<>();
                                 teacherCseSemOneSubject1.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject1.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -259,7 +248,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject1);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 2":
+                            case "Programming Language (PL)":
                                 teacherCseSemOneSubject2 = new ArrayList<>();
                                 teacherCseSemOneSubject2.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject2.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -270,7 +259,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject2);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 3":
+                            case "Object Oriented Progarmming Using C++ (OOPS)":
                                 teacherCseSemOneSubject3 = new ArrayList<>();
                                 teacherCseSemOneSubject3.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject3.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -281,7 +270,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject3);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 4":
+                            case "Database Management System (DBMS)":
                                 teacherCseSemOneSubject4 = new ArrayList<>();
                                 teacherCseSemOneSubject4.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject4.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -292,7 +281,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject4);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 5":
+                            case "Computer Architecture And Organization (CAO)":
                                 teacherCseSemOneSubject5 = new ArrayList<>();
                                 teacherCseSemOneSubject5.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject5.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -303,7 +292,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject5);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 6":
+                            case "Economics":
                                 teacherCseSemOneSubject6 = new ArrayList<>();
                                 teacherCseSemOneSubject6.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject6.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -319,7 +308,7 @@ public class TeachersActivity extends AppCompatActivity {
 
                     case "Five":
                         switch (subject){
-                            case "Subject 1":
+                            case "Principles of Operating System":
                                 teacherCseSemOneSubject1 = new ArrayList<>();
                                 teacherCseSemOneSubject1.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject1.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -329,7 +318,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject1);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 2":
+                            case "Microprocessors and Interfacing":
                                 teacherCseSemOneSubject2 = new ArrayList<>();
                                 teacherCseSemOneSubject2.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject2.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -340,7 +329,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject2);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 3":
+                            case "Computer Graphics":
                                 teacherCseSemOneSubject3 = new ArrayList<>();
                                 teacherCseSemOneSubject3.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject3.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -351,7 +340,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject3);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 4":
+                            case "Web Development":
                                 teacherCseSemOneSubject4 = new ArrayList<>();
                                 teacherCseSemOneSubject4.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject4.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -362,7 +351,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject4);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 5":
+                            case "Multimedia Technologies":
                                 teacherCseSemOneSubject5 = new ArrayList<>();
                                 teacherCseSemOneSubject5.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject5.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -389,7 +378,7 @@ public class TeachersActivity extends AppCompatActivity {
 
                     case "Six":
                         switch (subject){
-                            case "Subject 1":
+                            case "Digital System Design (DSD)":
                                 teacherCseSemOneSubject1 = new ArrayList<>();
                                 teacherCseSemOneSubject1.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject1.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -399,7 +388,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject1);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 2":
+                            case "Analysis And Design Of Algorithms (ADA)":
                                 teacherCseSemOneSubject2 = new ArrayList<>();
                                 teacherCseSemOneSubject2.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject2.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -410,7 +399,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject2);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 3":
+                            case "Computer Networks (CN)":
                                 teacherCseSemOneSubject3 = new ArrayList<>();
                                 teacherCseSemOneSubject3.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject3.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -421,7 +410,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject3);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 4":
+                            case "Intelligent Systems (IS)":
                                 teacherCseSemOneSubject4 = new ArrayList<>();
                                 teacherCseSemOneSubject4.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject4.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -432,7 +421,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject4);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 5":
+                            case "System Programming And Administration (SPSA)":
                                 teacherCseSemOneSubject5 = new ArrayList<>();
                                 teacherCseSemOneSubject5.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject5.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -443,7 +432,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject5);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 6":
+                            case "Principles Of Software Engineering (POSE)":
                                 teacherCseSemOneSubject6 = new ArrayList<>();
                                 teacherCseSemOneSubject6.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject6.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -459,7 +448,7 @@ public class TeachersActivity extends AppCompatActivity {
 
                     case "Seven":
                         switch (subject){
-                            case "Subject 1":
+                            case "Advanced Computer Architecture":
                                 teacherCseSemOneSubject1 = new ArrayList<>();
                                 teacherCseSemOneSubject1.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject1.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -469,7 +458,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject1);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 2":
+                            case "Software Project Management":
                                 teacherCseSemOneSubject2 = new ArrayList<>();
                                 teacherCseSemOneSubject2.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject2.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -480,7 +469,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject2);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 3":
+                            case "Compiler Design":
                                 teacherCseSemOneSubject3 = new ArrayList<>();
                                 teacherCseSemOneSubject3.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject3.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -491,7 +480,7 @@ public class TeachersActivity extends AppCompatActivity {
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject3);
                                 listView.setAdapter(teachersAdapter);
                                 break;
-                            case "Subject 4":
+                            case "Neural Networks":
                                 teacherCseSemOneSubject4 = new ArrayList<>();
                                 teacherCseSemOneSubject4.add("Teacher A " + branch + " "+ semester + " " + subject);
                                 teacherCseSemOneSubject4.add("Teacher B " + branch + " "+ semester + " " + subject);
@@ -500,98 +489,6 @@ public class TeachersActivity extends AppCompatActivity {
 
 
                                 teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject4);
-                                listView.setAdapter(teachersAdapter);
-                                break;
-                            case "Subject 5":
-                                teacherCseSemOneSubject5 = new ArrayList<>();
-                                teacherCseSemOneSubject5.add("Teacher A " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject5.add("Teacher B " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject5.add("Teacher C " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject5.add("Teacher D " + branch + " "+ semester + " " + subject);
-
-
-                                teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject5);
-                                listView.setAdapter(teachersAdapter);
-                                break;
-                            case "Subject 6":
-                                teacherCseSemOneSubject6 = new ArrayList<>();
-                                teacherCseSemOneSubject6.add("Teacher A " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject6.add("Teacher B " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject6.add("Teacher C " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject6.add("Teacher D " + branch + " "+ semester + " " + subject);
-
-
-                                teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject6);
-                                listView.setAdapter(teachersAdapter);
-                                break;
-                        }
-                        break;
-
-                    case "Eight":
-                        switch (subject){
-                            case "Subject 1":
-                                teacherCseSemOneSubject1 = new ArrayList<>();
-                                teacherCseSemOneSubject1.add("Teacher A " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject1.add("Teacher B " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject1.add("Teacher C " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject1.add("Teacher D " + branch + " "+ semester + " " + subject);
-
-                                teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject1);
-                                listView.setAdapter(teachersAdapter);
-                                break;
-                            case "Subject 2":
-                                teacherCseSemOneSubject2 = new ArrayList<>();
-                                teacherCseSemOneSubject2.add("Teacher A " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject2.add("Teacher B " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject2.add("Teacher C " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject2.add("Teacher D " + branch + " "+ semester + " " + subject);
-
-
-                                teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject2);
-                                listView.setAdapter(teachersAdapter);
-                                break;
-                            case "Subject 3":
-                                teacherCseSemOneSubject3 = new ArrayList<>();
-                                teacherCseSemOneSubject3.add("Teacher A " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject3.add("Teacher B " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject3.add("Teacher C " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject3.add("Teacher D " + branch + " "+ semester + " " + subject);
-
-
-                                teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject3);
-                                listView.setAdapter(teachersAdapter);
-                                break;
-                            case "Subject 4":
-                                teacherCseSemOneSubject4 = new ArrayList<>();
-                                teacherCseSemOneSubject4.add("Teacher A " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject4.add("Teacher B " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject4.add("Teacher C " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject4.add("Teacher D " + branch + " "+ semester + " " + subject);
-
-
-                                teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject4);
-                                listView.setAdapter(teachersAdapter);
-                                break;
-                            case "Subject 5":
-                                teacherCseSemOneSubject5 = new ArrayList<>();
-                                teacherCseSemOneSubject5.add("Teacher A " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject5.add("Teacher B " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject5.add("Teacher C " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject5.add("Teacher D " + branch + " "+ semester + " " + subject);
-
-
-                                teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject5);
-                                listView.setAdapter(teachersAdapter);
-                                break;
-                            case "Subject 6":
-                                teacherCseSemOneSubject6 = new ArrayList<>();
-                                teacherCseSemOneSubject6.add("Teacher A " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject6.add("Teacher B " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject6.add("Teacher C " + branch + " "+ semester + " " + subject);
-                                teacherCseSemOneSubject6.add("Teacher D " + branch + " "+ semester + " " + subject);
-
-
-                                teachersAdapter = new TeachersAdapter(TeachersActivity.this, teacherCseSemOneSubject6);
                                 listView.setAdapter(teachersAdapter);
                                 break;
                         }

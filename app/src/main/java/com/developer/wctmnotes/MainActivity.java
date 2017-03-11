@@ -28,6 +28,9 @@ public class MainActivity extends AppCompatActivity {
         branches.add("ECE");
         branches.add("EEE");
         branches.add("ME");
+        branches.add("Civil");
+        branches.add("BCA");
+        branches.add("MCA");
 
         listView = (ListView) findViewById(R.id.list_view);
 

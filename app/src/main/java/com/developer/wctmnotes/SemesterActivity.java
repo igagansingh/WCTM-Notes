@@ -23,18 +23,33 @@ public class SemesterActivity extends AppCompatActivity {
         setContentView(R.layout.activity_semester);
 
         branch = getIntent().getExtras().getString("Branch");
-
         semesters = new ArrayList<>();
-        semesters.add("One");
-        semesters.add("Two");
-        semesters.add("Three");
-        semesters.add("Four");
-        semesters.add("Five");
-        semesters.add("Six");
-        semesters.add("Seven");
-        semesters.add("Eight");
 
-
+        switch(branch){
+            case "MCA":
+                semesters.add("One");
+                semesters.add("Two");
+                semesters.add("Three");
+                semesters.add("Four");
+                break;
+            case "BCA":
+                semesters.add("One");
+                semesters.add("Two");
+                semesters.add("Three");
+                semesters.add("Four");
+                semesters.add("Five");
+                semesters.add("Six");
+                break;
+            default:
+                semesters.add("One");
+                semesters.add("Two");
+                semesters.add("Three");
+                semesters.add("Four");
+                semesters.add("Five");
+                semesters.add("Six");
+                semesters.add("Seven");
+                break;
+        }
         listView = (ListView) findViewById(R.id.list_view);
 
         semesterAdapter = new SemesterAdapter(this, semesters);
