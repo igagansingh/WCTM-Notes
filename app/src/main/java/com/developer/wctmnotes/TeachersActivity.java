@@ -119,7 +119,6 @@ public class TeachersActivity extends AppCompatActivity {
                         String smsNumber = "919582257576"; //without '+'
                         try {
                             Intent sendIntent = new Intent("android.intent.action.MAIN");
-                            //sendIntent.setComponent(new ComponentName("com.whatsapp", "com.whatsapp.Conversation"));
                             sendIntent.setAction(Intent.ACTION_SEND);
                             sendIntent.setType("text/plain");
                             sendIntent.putExtra(Intent.EXTRA_TEXT, "I want the notes for " + selectedTeachers + ". Thank you for your assistance.");

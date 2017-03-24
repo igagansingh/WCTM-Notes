@@ -133,7 +133,7 @@
 					}
 				}
 			}
-		},                            //sendIntent.setComponent(new ComponentName("com.whatsapp", "com.whatsapp.Conversation"));
+		},
 
 		"IT": {
 			"Semester": {
