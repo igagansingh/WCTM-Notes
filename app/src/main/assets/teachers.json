@@ -955,19 +955,24 @@
 				"Two": {
 					"Subjects": {
 						"Computer Arch. And Org.": {
-							"Teachers": ["Mr."]
+							"Teachers": ["Ms.-----"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4eEl5ZEQ1bTlzdWs"
 						},
 						"Database Management System": {
-							"Teachers": ["Ms. Rupal"]
+							"Teachers": ["Ms. Rupal"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4SGtPeGN6d0E0Y1E"
 						},
 						"Compiler Design": {
-							"Teachers": ["Mr. Subash "]
+							"Teachers": ["Mr. Subash "],
+							"Notes" : ""
 						},
 						"Visual Prog. Languages": {
-							"Teachers": ["Prakash"]
+							"Teachers": ["Mr. Prakash"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4NEJ6bHotc2JjYkU"
 						},
 						"Data Structures And Algorithms Using C++": {
-							"Teachers": ["Ms. Sonia Batra"]
+							"Teachers": ["Ms. Sonia Batra"],
+							"Notes" : ""
 						}
 					}
 				},
@@ -987,19 +992,24 @@
 				"Four": {
 					"Subjects": {
 						"Software Engg.": {
-							"Teachers": ["Ms. Deepali"]
+							"Teachers": ["Ms. Deepali"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4d05tVk1rbWpNWVU"
 						},
 						"Advanced Database Management System ": {
-							"Teachers": ["Mr. Subash"]
+							"Teachers": ["Mr. Subash"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4bzNzYkFHS3Y3Qkk"
 						},
 						"Advanced Java": {
-							"Teachers": ["Dr. Prakash"]
+							"Teachers": ["Dr. Prakash"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4T2htdXBkZkRGQXM"
 						},
 						"Visual Prog. Languages": {
-							"Teachers": ["Dr. Prakash"]
+							"Teachers": ["Dr. Prakash"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4NEJ6bHotc2JjYkU"
 						},
 						"Data Warehousing And Data Mining": {
-							"Teachers": ["Ms. Deepali"]
+							"Teachers": ["Ms. Deepali"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4ZHNVTHl1NEZ2Vmc"
 						}
 					}
 				}
