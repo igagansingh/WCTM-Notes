@@ -125,18 +125,7 @@
 							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
 						}
 					}
-				},
-				"Eight": {
-					"Subjects": {
-						"Subject 1": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 2": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 3": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						}
+				}
 					}
 				}
 			}
@@ -262,18 +251,7 @@
 							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
 						}
 					}
-				},
-				"Eight": {
-					"Subjects": {
-						"Subject 1": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 2": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 3": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						}
+				}
 					}
 				}
 			}
@@ -370,18 +348,7 @@
 							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
 						}
 					}
-				},
-				"Eight": {
-					"Subejcts": {
-						"Subject 1": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 2": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 3": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						}
+				}
 					}
 				}
 			}
@@ -529,18 +496,7 @@
 							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
 						}
 					}
-				},
-				"Eight": {
-					"Subjects": {
-						"Subject 1": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 2": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 3": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						}
+				}
 					}
 				}
 			}
@@ -664,18 +620,7 @@
 							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
 						}
 					}
-				},
-				"Eight": {
-					"Subjects": {
-						"Subject 1": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 2": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 3": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						}
+				}
 					}
 				}
 			}
@@ -830,18 +775,7 @@
 							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
 						}
 					}
-				},
-				"Eight": {
-					"Subjects": {
-						"Subject 1": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 2": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						},
-						"Subject 3": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
-						}
+				}
 					}
 				}
 			}
