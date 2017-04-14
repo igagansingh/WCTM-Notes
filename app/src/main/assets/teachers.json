@@ -22,16 +22,19 @@
 							"Notes" : ""
 						},
 						"Physics (P-2)": {
-							"Teachers": ["Dr. Suresh Pal"]
+							"Teachers": ["Dr. Suresh Pal"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4U3dVSm1VMzlrUjg"
 						},
 						"English": {
-							"Teachers": ["Ms. Sujata Chauhan "]
+							"Teachers": ["Ms. Sujata Chauhan "],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4Q2dzS0Ixa3Z3elU"
 						},
 						"Chemistry": {
 							"Teachers": ["Dr. Shalini Chandravanshi"]
 						},
 						"Electrical Technology (ET)": {
-							"Teachers": ["Mr. Ravinder Singh"]
+							"Teachers": ["Mr. Ravinder Singh"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4WktsWWJYcWhoMmc"
 						}
 					}
 				},
@@ -54,19 +57,24 @@
 							"Teachers": ["Mr. Deepak"]
 						},
 						"Programming Language (PL)": {
-							"Teachers": ["Dr. Chitra Kaul"]
+							"Teachers": ["Mrs. Ishita"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4aW9mS0VNRVRoakk"
 						},
 						"Object Oriented Progarmming Using C++ (OOPS)": {
-							"Teachers": ["Ms. Ishita "]
+							"Teachers": ["Ms. Ishita "],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4TnRzWnZpa28zTE0"
 						},
 						"Database Management System (DBMS)": {
-							"Teachers": ["Dr. Pooja Sapra"]
+							"Teachers": ["Dr. Pooja Sapra"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4SGtPeGN6d0E0Y1E"
 						},
 						"Computer Architecture And Organization (CAO)": {
-							"Teachers": ["Ms. Meenakshi Memoria"]
+							"Teachers": ["Ms. Meenakshi Memoria"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4eEl5ZEQ1bTlzdWs"
 						},
 						"Economics":{
-							"Teachers":["Ms. Meenakshi Dahiya"]
+							"Teachers":["Ms. Meenakshi Dahiya"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4dUw4WVI0c3Q3bXc"
 						}
 					}
 				},
@@ -87,7 +95,8 @@
 				"Six": {
 					"Subjects": {
 						"Digital System Design (DSD)": {
-							"Teachers": ["Mr. Ajay"]
+							"Teachers": ["Mr. Ajay"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4V1ozOE55enctWUU"
 						},
 						"Analysis And Design Of Algorithms (ADA)": {
 							"Teachers": ["Mr. Deepak"],
@@ -128,6 +137,7 @@
 				}
 			}
 		},
+
 		"IT": {
 			"Semester": {
 				"One": {
@@ -146,19 +156,22 @@
 				"Two": {
 					"Subjects": {
 						"Mathematics-II": {
-							"Teachers": ["Mr. Ajay"]
+							"Teachers": ["Mrs. Shamta Chugh"]
 						},
 						"ENGINEERING CHEMISTRY": {
-							"Teachers": ["Mr. Deepak"]
+							"Teachers": ["Dr. Shalini"]
 						},
 						"ELECTRICAL TECHNOLOGY": {
-							"Teachers": ["Mr. Binayak "]
+							"Teachers": ["Mr. ravinder Singh "],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4WktsWWJYcWhoMmc"
 						},
 						"PHYSICS-2": {
-							"Teachers": ["Dr. Pooja Sapra"]
+							"Teachers": ["Dr. suresh Pal"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4U3dVSm1VMzlrUjg"
 						},
 						"Communication Skills in English": {
-							"Teachers": ["Ms. Meenakshi Memoria"]
+							"Teachers": ["Ms. sujata ChauhanaDFSAAaS"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4Q2dzS0Ixa3Z3elU"
 						}
 						
 					}
@@ -180,22 +193,27 @@
 				"Four": {
 					"Subjects": {
 						"Data Base Management Systems": {
-							"Teachers": ["Mr. Ajay"]
+							"Teachers": ["Mrs. Parmeshwari"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4SGtPeGN6d0E0Y1E"
 						},
-						"Programming Languages": {
-							"Teachers": ["Mr. Deepak"]
+						"Economics": {
+							"Teachers": ["Mrs. Meenakshi Dahiya"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4dUw4WVI0c3Q3bXc"
 						},
 						"Multimedia Technologies": {
-							"Teachers": ["Mr. Binayak "]
+							"Teachers": ["Dr. Pooja Sapra "],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4ZFlzWGQxOVVyUTQ"
 						},
 						"Object-Oriented Programming using C++": {
-							"Teachers": ["Dr. Pooja Sapra"]
+							"Teachers": ["Mrs. Ishita"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4b19vUnBzZzl0Wjg"
 						},
 						"Internet Fundamentals": {
-							"Teachers": ["Ms. Meenakshi Memoria"]
+							"Teachers": ["Dr. Deepak"]
 						},
 						"Computer Architecture and Organization":{
-							"Teachers":["Dr. Chitra Kaul"]
+							"Teachers":["Mrs. Minakshi Memoria"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4eEl5ZEQ1bTlzdWs"
 						}
 					}
 				},
@@ -216,22 +234,28 @@
 				"Six": {
 					"Subjects": {
 						"Web Development": {
-							"Teachers": ["Mr. Ajay"]
+							"Teachers": ["Mrs. Deepali"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4QV9Edk5lMVd0M2s"
 						},
 						"Wireless Communication": {
-							"Teachers": ["Mr. Deepak"]
+							"Teachers": ["Mr. Sachin"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4VFpEcHNrd2FNWkk"
 						},
 						"Intelligent Systems": {
-							"Teachers": ["Mr. Binayak "]
+							"Teachers": ["Dr. Pooja Sapra"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4bFctSHRZa1V1SVk"
 						},
 						"Principles of Software Engineering": {
-							"Teachers": ["Dr. Pooja Sapra"]
+							"Teachers": ["Mrs. Monika"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4d05tVk1rbWpNWVU"
 						},
 						"Network Programming": {
-							"Teachers": ["Ms. Meenakshi Memoria"]
+							"Teachers": ["Mrs. Parmeshwari"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4N1YzLTZiN1lFaFk"
 						},
-						"Digital Signal Processing":{
-							"Teachers":["Dr. Chitra Kaul"]
+						"Operational Research":{
+							"Teachers":["Mr. Vijay"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4QV9Uelhtb2ZaU28"
 						}
 					}
 				},
@@ -249,7 +273,6 @@
 						}
 					}
 				}
-		
 			}
 		},
 		"EEE": {
@@ -386,7 +409,6 @@
 						}
 					}
 				}
-					
 			}
 		},
 		"ECE": {
@@ -550,7 +572,7 @@
 						}
 					}
 				}
-							}
+			}
 		},
 		"ME": {
 			"Semester": {
@@ -570,28 +592,22 @@
 				"Two": {
 					"Subjects": {
 						"Mathematics (M-2)": {
-							"Teachers": ["Dr. Neetu Singh"],
-							"Notes": ""
+							"Teachers": ["Dr. Neetu Singh"]
 						},
 						"Physics (P-2)": {
-							"Teachers": ["Ms. Neeraj Shimar"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4U3dVSm1VMzlrUjg"
+							"Teachers": ["Ms. Neeraj Shimar"]
 						},
 						"English": {
-							"Teachers": ["Ms. Sujata Chauhan"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4Q2dzS0Ixa3Z3elU"
+							"Teachers": ["Ms. Sujata Chauhan"]
 						},
 						"Basics Of Mechanical Engg.": {
-							"Teachers": ["Mr. M.S Gautam"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4ZEk5QUMxS3RjZ0k"
+							"Teachers": ["Mr. M.S Gautam"]
 						},
 						"Basics Of Electronics": {
-							"Teachers": ["Ms. Monika Bhatt"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4MHZMbGpBMEpVUDg"
+							"Teachers": ["Ms. Monika Bhatt"]
 						},
 						"Fundamentals Of Comp. Prog. In C": {
-							"Teachers": ["Mrs. Ritika Makhija"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4Wkg5aGI2QTJTUlk"
+							"Teachers": ["Mrs. Ritika Makhija"]
 						}
 					}
 				},
@@ -611,28 +627,22 @@
 				"Four": {
 					"Subjects": {
 						"Kinematics Of Machines": {
-							"Teachers": ["Mr. A.K Sarkar"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4YnNFVVlWMmZ3MTg"
+							"Teachers": ["Mr. A.K Sarkar"]
 						},
 						"Steam And Power Generation": {
-							"Teachers": ["Mr. Deepak Sharma"],
-							"Notes": ""
+							"Teachers": ["Mr. Deepak Sharma"]
 						},
 						"Fluid Mechanics": {
-							"Teachers": ["Mr. Brajendra Tripathi"],
-							"Notes": ""
+							"Teachers": ["Mr. Brajendra Tripathi"]
 						},
 						"Manufacturing Tech.": {
-							"Teachers": ["Mr. Deepak Sharma"],
-							"Notes": ""
+							"Teachers": ["Mr. Deepak Sharma"]
 						},
 						"Strength Of Material": {
-							"Teachers": ["Mr. V.K sharma"],
-							"Notes": ""
+							"Teachers": ["Mr. V.K sharma"]
 						},
 						"Economics": {
-							"Teachers": ["Ms. Meenakshi Dahiya"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4dUw4WVI0c3Q3bXc"
+							"Teachers": ["Ms. Meenakshi Dahiya"]
 						}
 					}
 				},
@@ -652,28 +662,22 @@
 				"Six": {
 					"Subjects": {
 						"Industrial Engg.": {
-							"Teachers": ["M.S Gautam"],
-							"Notes": ""
+							"Teachers": ["M.S Gautam"]
 						},
 						"Heat Transfer": {
-							"Teachers": ["Mr. Desh Deepak"],
-							"Notes": ""
+							"Teachers": ["Mr. Desh Deepak"]
 						},
 						"Automobile Engg.": {
-							"Teachers": ["Mr. Gurdeep Grewal"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4d1IxRldkbUI5b3c"
+							"Teachers": ["Mr. Gurdeep Grewal"]
 						},
-						"Machine Design 2": {
-							"Teachers": [" Mr. V.K sharma"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4d1IxRldkbUI5b3c"
+						"Machine Design": {
+							"Teachers": [" Mr. V.K sharma"]
 						},
 						"Measurement And Instrumentation": {
-							"Teachers": ["Mr. Ravinder Anand"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4MVhaLUMwR2hTcms"
+							"Teachers": ["Mr. Ravinder Anand"]
 						},
 						"Automatic Control System": {
-							"Teachers": ["Mr. Anil"],
-							"Notes": ""
+							"Teachers": ["Mr. Anil"]
 						}
                   	}
 				},
@@ -690,7 +694,6 @@
 						}
 					}
 				}
-					
 			}
 		},
 		"Civil": {
@@ -864,20 +867,16 @@
 				"Two": {
 					"Subjects": {
 						"C Prog.": {
-							"Teachers": ["Mr. Purushottam"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4MXFVM2F6MGxwNms"
+							"Teachers": ["Mr. Purushottam"]
 						},
 						"Structured System Analysis And Design": {
-							"Teachers": ["Ms. Ishita"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4WUw1RmxFWmRrNmM"
+							"Teachers": ["Ms. Ishita"]
 						},
 						"Logical Organization Of Computers 2": {
-							"Teachers": ["Ms. Monika Bhatt"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4OU5BSEhfdHl4VEU"
+							"Teachers": ["Ms. Monika Bhatt"]
 						},
 						"Mathematical Foundation Of Computers": {
-							"Teachers": ["Ms. Nisha"],
-							"Notes": ""
+							"Teachers": ["Ms. Nisha"]
 						}
 					}
 				},
@@ -897,20 +896,16 @@
 				"Four": {
 					"Subjects": {
 						"Object Oriented Prog.": {
-							"Teachers": ["Ms. Rupal"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4b19vUnBzZzl0Wjg"
+							"Teachers": ["Ms. Rupal"]
 						},
 						"Web Designing": {
-							"Teachers": ["Mr. Subhash"],
-							"Notes": ""
+							"Teachers": ["Mr. Subhash"]
 						},
 						"Software Engg.": {
-							"Teachers": ["Ms. Deepali"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4X21LeEFwckpYZGs"
+							"Teachers": ["Ms. Deepali"]
 						},
 						"Data Structures 2": {
-							"Teachers": ["Ms. Sonia Batra"],
-							"Notes": ""
+							"Teachers": ["Ms. Sonia Batra"]
 						}
 					}
 				},
@@ -930,20 +925,16 @@
 				"Six": {
 					"Subjects": {
 						"Object Technologies And Prog. Using Java": {
-							"Teachers": ["Mr. Purushottam"],
-							"Notes": ""
+							"Teachers": ["Mr. Purushottam"]
 						},
 						"Introduction To .NET": {
-							"Teachers": ["Dr. Prakash"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4aFpmc1NkLW1mM0E"
+							"Teachers": ["Dr. Prakash"]
 						},
 						"E Commerce": {
-							"Teachers": ["Ms. Parameshwari"],
-							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4VEVEZ0VoUHU3Njg"
+							"Teachers": ["Ms. Parameshwari"]
 						},
 						"Artificial Intelligence": {
-							"Teachers": ["Ms. Sonia Batra"],
-							"Notes": ""
+							"Teachers": ["Ms. Sonia Batra"]
 						}
 					}
 				}
