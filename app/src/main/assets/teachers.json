@@ -268,15 +268,26 @@
 					}
 				},
 				"Two": {
-					"Subejcts": {
-						"Subject 1": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+					"Subjects": {
+						"Mathematics (M-2)": {
+							"Teachers": ["Dr. Seema Chawla"],
+							"Notes": ""
 						},
-						"Subject 2": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+						"Physics (P-2)": {
+							"Teachers": ["Ms. Neeraj"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4U3dVSm1VMzlrUjg"
 						},
-						"Subject 3": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+						"English": {
+							"Teachers": ["Mr. Deepesh Kumar Thakur"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4Q2dzS0Ixa3Z3elU"
+						},
+						"Chemistry": {
+							"Teachers": ["Dr. Shalini Chandravanshi"],
+							"Notes": ""
+						},
+						"Electrical Tech.": {
+							"Teachers": ["Mr. Ravinder Singh"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4WktsWWJYcWhoMmc"
 						}
 					}
 				},
@@ -295,14 +306,29 @@
 				},
 				"Four": {
 					"Subejcts": {
-						"Subject 1": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+						"Communication System": {
+							"Teachers": ["Mr. Sachin Talan"],
+							"Notes": ""
 						},
-						"Subject 2": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+						"Maths 3": {
+							"Teachers": ["Mr. Vijay"],
+							"Notes": ""
 						},
-						"Subject 3": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+						"Electromagnetic Field Theory": {
+							"Teachers": ["Dr. Upender Gupta"],
+							"Notes": ""
+						},
+						"Digital Electronics": {
+							"Teachers": ["Ms. Ritika Makhija"],
+							"Notes": ""
+						},
+						"Analog Electronics": {
+							"Teachers": ["Dr. Ajay Kumar Dagar"],
+							"Notes": ""
+						},
+						"Transmission And Distribution": {
+							"Teachers": ["Mr. Abhay Kumar Shah"],
+							"Notes": ""
 						}
 					}
 				},
@@ -321,14 +347,29 @@
 				},
 				"Six": {
 					"Subejcts": {
-						"Subject 1": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+						"Computer Aided Design": {
+							"Teachers": ["Mr. Abhay Kumar Shah"],
+							"Notes": ""
 						},
-						"Subject 2": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+						"Power System 2": {
+							"Teachers": ["Mr. Anil Kumar"],
+							"Notes": ""
 						},
-						"Subject 3": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+						"Embeded System Design": {
+							"Teachers": ["Dr. Upender Gupta"],
+							"Notes": ""
+						},
+						"Electric Power Generation": {
+							"Teachers": ["Mr. Abhay Kumar Shah"],
+							"Notes": ""
+						},
+						"Digital System Design": {
+							"Teachers": ["Mr. Ajay Kumar"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4V1ozOE55enctWUU"
+						},
+						"Control System": {
+							"Teachers": ["Mr. Sachin Talan"],
+							"Notes": ""
 						}
 					}
 				},
@@ -375,19 +416,24 @@
 				"Two": {
 					"Subjects": {
 						"Mathematics (M-2)": {
-							"Teachers": ["Dr. Seema Chawla"]
+							"Teachers": ["Dr. Seema Chawla"],
+							"Notes": ""
 						},
 						"Physics (P-2)": {
-							"Teachers": ["Ms. Neeraj Sihmar"]
+							"Teachers": ["Ms. Neeraj"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4U3dVSm1VMzlrUjg"
 						},
 						"English": {
-							"Teachers": ["Mr. Deepak Kumar Thakur"]
+							"Teachers": ["Mr. Deepesh Kumar Thakur"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4Q2dzS0Ixa3Z3elU"
 						},
 						"Chemistry": {
-							"Teachers": ["Dr. Shalini Chandravanshi"]
+							"Teachers": ["Dr. Shalini Chandravanshi"],
+							"Notes": ""
 						},
 						"Electrical Tech.": {
-							"Teachers": ["Mr. Ravinder Singh"]
+							"Teachers": ["Mr. Ravinder Singh"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4WktsWWJYcWhoMmc"
 						}
 					}
 				},
@@ -415,23 +461,29 @@
 				},
 				"Four": {
 					"Subjects": {
-						"Signals Systems": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+						"Signal Systems": {
+							"Teachers": ["Dr. Upender Gupta"],
+							"Notes": ""
 						},	
 						"Analog Electronics": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+							"Teachers": ["Dr. Ajay Kumar Dagar"],
+							"Notes": ""
 						},
 						"Digital Electronics": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+							"Teachers": ["Mrs. Ritika Makhija"],
+							"Notes": ""
 						},
 						"Communication System": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+							"Teachers": ["Mr. Sachin Talan"],
+							"Notes": ""
 						},
 						"Electro Magnetic Theory": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+							"Teachers": ["Dr. Upender Gupta"],
+							"Notes": ""
 						},
-						"Subject 3": {
-							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
+						"Maths 3": {
+							"Teachers": ["Mr. Vijay"],
+							"Notes": ""
 						}
 					}
 				},
@@ -460,22 +512,28 @@
 				"Six": {
 					"Subjects": {
 						"Computer Networks": {
-							"Teachers": ["Mr. Ajay Kumar Dagar"]
+							"Teachers": ["Mrs. Monika Bhatt"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4N3ZiU2xieXJjdGM"
 						},
-						"Very Large SCale Integration": {
-							"Teachers": ["___"]
+						"Very Large Scale Integration": {
+							"Teachers": ["Mr. Upender Gupta"],
+							"Notes": ""
 						},
 						"Digital System Design": {
-							"Teachers": ["Mr. Ajay Kumar"]
+							"Teachers": ["Mr. Ajay Kumar"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4V1ozOE55enctWUU"
 						},
 						"Control System": {
-							"Teachers": ["Mr. Sachin Talan"]
+							"Teachers": ["Mr. Sachin Talan"],
+							"Notes": ""
 						},
 						"Microwave And Radar": {
-							"Teachers": ["Mr. Sachin Talan"]
+							"Teachers": ["Dr. Ajay Kumar Dagar"],
+							"Notes": ""
 						},
 						"Embeded System Design": {
-							"Teachers": ["_____"]
+							"Teachers": ["Mr. Upender Gupta"],
+							"Notes": ""
 						}
 					}
 				},
