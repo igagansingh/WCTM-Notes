@@ -27,7 +27,7 @@
 						},
 						"English": {
 							"Teachers": ["Ms. Sujata Chauhan "],
-							"https://drive.google.com/drive/folders/0B1q0N0HwZRB4Q2dzS0Ixa3Z3elU"
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4Q2dzS0Ixa3Z3elU"
 						},
 						"Chemistry": {
 							"Teachers": ["Dr. Shalini Chandravanshi"]
@@ -57,10 +57,12 @@
 							"Teachers": ["Mr. Deepak"]
 						},
 						"Programming Language (PL)": {
-							"Teachers": ["Dr. Chitra Kaul"]
+							"Teachers": ["Mrs. Ishita"],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4aW9mS0VNRVRoakk"
 						},
 						"Object Oriented Progarmming Using C++ (OOPS)": {
-							"Teachers": ["Ms. Ishita "]
+							"Teachers": ["Ms. Ishita "],
+							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4TnRzWnZpa28zTE0"
 						},
 						"Database Management System (DBMS)": {
 							"Teachers": ["Dr. Pooja Sapra"],
@@ -133,8 +135,6 @@
 						}
 					}
 				}
-					}
-				}
 			}
 		},
 
@@ -193,26 +193,26 @@
 				"Four": {
 					"Subjects": {
 						"Data Base Management Systems": {
-							"Teachers": ["Mr. Ajay"],
+							"Teachers": ["Mrs. Parmeshwari"],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4SGtPeGN6d0E0Y1E"
 						},
 						"Economics": {
-							"Teachers": ["Mr. Deepak"],
+							"Teachers": ["Mrs. Meenakshi Dahiya"],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4dUw4WVI0c3Q3bXc"
 						},
 						"Multimedia Technologies": {
-							"Teachers": ["Mr. Binayak "],
+							"Teachers": ["Dr. Pooja Sapra "],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4ZFlzWGQxOVVyUTQ"
 						},
 						"Object-Oriented Programming using C++": {
-							"Teachers": ["Dr. Pooja Sapra"],
+							"Teachers": ["Mrs. Ishita"],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4b19vUnBzZzl0Wjg"
 						},
 						"Internet Fundamentals": {
-							"Teachers": ["Ms. Meenakshi Memoria"]
+							"Teachers": ["Dr. Deepak"]
 						},
 						"Computer Architecture and Organization":{
-							"Teachers":["Dr. Chitra Kaul"],
+							"Teachers":["Mrs. Minakshi Memoria"],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4eEl5ZEQ1bTlzdWs"
 						}
 					}
@@ -234,27 +234,27 @@
 				"Six": {
 					"Subjects": {
 						"Web Development": {
-							"Teachers": ["Mr. Ajay"],
+							"Teachers": ["Mrs. Deepali"],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4QV9Edk5lMVd0M2s"
 						},
 						"Wireless Communication": {
-							"Teachers": ["Mr. Deepak"],
+							"Teachers": ["Mr. Sachin"],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4VFpEcHNrd2FNWkk"
 						},
 						"Intelligent Systems": {
-							"Teachers": ["Mr. Binayak "],
+							"Teachers": ["Dr. Pooja Sapra"],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4bFctSHRZa1V1SVk"
 						},
 						"Principles of Software Engineering": {
-							"Teachers": ["Dr. Pooja Sapra"],
+							"Teachers": ["Mrs. Monika"],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4d05tVk1rbWpNWVU"
 						},
 						"Network Programming": {
-							"Teachers": ["Ms. Meenakshi Memoria"],
+							"Teachers": ["Mrs. Parmeshwari"],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4N1YzLTZiN1lFaFk"
 						},
 						"Operational Research":{
-							"Teachers":["Dr. Chitra Kaul"],
+							"Teachers":["Mr. Vijay"],
 							"Notes" : "https://drive.google.com/drive/folders/0B1q0N0HwZRB4QV9Uelhtb2ZaU28"
 						}
 					}
@@ -271,8 +271,6 @@
 						"Subject 3": {
 							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
 						}
-					}
-				}
 					}
 				}
 			}
@@ -368,8 +366,6 @@
 						"Subject 3": {
 							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
 						}
-					}
-				}
 					}
 				}
 			}
@@ -518,8 +514,6 @@
 						}
 					}
 				}
-					}
-				}
 			}
 		},
 		"ME": {
@@ -640,8 +634,6 @@
 						"Subject 3": {
 							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
 						}
-					}
-				}
 					}
 				}
 			}
@@ -795,8 +787,6 @@
 						"Hydro Power": {
 							"Teachers": ["Teacher-A", "Teacher-B", "Teacher-C"]
 						}
-					}
-				}
 					}
 				}
 			}
