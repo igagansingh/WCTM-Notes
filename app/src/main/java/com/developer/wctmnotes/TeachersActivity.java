@@ -29,7 +29,7 @@ public class TeachersActivity extends AppCompatActivity {
     private String branch, semester, subject;
     private ArrayList<String> selectedTeachers,teachers;
     private TeachersAdapter teachersAdapter;
-
+    private String notes="";
     public String loadJSONFromAsset() {
         String json;
         try {
@@ -69,6 +69,8 @@ public class TeachersActivity extends AppCompatActivity {
             JSONObject semeterNumObj = semestersObj.getJSONObject(semester);
             JSONObject subjectsObj = semeterNumObj.getJSONObject("Subjects");
             JSONObject subjectSelectedObj = subjectsObj.getJSONObject(subject);
+            notes = subjectSelectedObj.getString("Notes");
+            Log.d("TeachersActivity Notes", " "+notes);
             JSONArray teachersArr = subjectSelectedObj.getJSONArray("Teachers");
             for (int i = 0; i < teachersArr.length(); i++) {
                 teachers.add(teachersArr.getString(i));
@@ -85,7 +87,7 @@ public class TeachersActivity extends AppCompatActivity {
             public void onClick(View v) {
                 selectedTeachers = teachersAdapter.getSelectedTeachers();
 
-                String url = "https://drive.google.com/open?id=0B2_p8Bv8r3wIYTc2eW9famlzM0E";
+                String url = notes;
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse(url));
                 startActivity(i);

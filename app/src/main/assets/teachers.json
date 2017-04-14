@@ -89,19 +89,25 @@
 							"Teachers": ["Mr. Ajay"]
 						},
 						"Analysis And Design Of Algorithms (ADA)": {
-							"Teachers": ["Mr. Deepak"]
+							"Teachers": ["Mr. Deepak"],
+							"Notes":"https://drive.google.com/drive/folders/0B1q0N0HwZRB4VHVCTDdIVHp5VUU"
+
 						},
 						"Computer Networks (CN)": {
-							"Teachers": ["Mr. Binayak "]
+							"Teachers": ["Mr. Binayak "],
+							"Notes":"https://drive.google.com/drive/folders/0B1q0N0HwZRB4QXI3SUYyQldUa2s"
 						},
 						"Intelligent Systems (IS)": {
-							"Teachers": ["Dr. Pooja Sapra"]
+							"Teachers": ["Dr. Pooja Sapra"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4bFctSHRZa1V1SVk"
 						},
 						"System Programming And Administration (SPSA)": {
-							"Teachers": ["Ms. Meenakshi Memoria"]
+							"Teachers": ["Ms. Meenakshi Memoria"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4QlhYWFh4U1A5SjA"
 						},
 						"Principles Of Software Engineering (POSE)":{
-							"Teachers":["Dr. Chitra Kaul"]
+							"Teachers":["Dr. Chitra Kaul"],
+							"Notes": "https://drive.google.com/drive/folders/0B1q0N0HwZRB4d05tVk1rbWpNWVU"
 						}
 					}
 				},
