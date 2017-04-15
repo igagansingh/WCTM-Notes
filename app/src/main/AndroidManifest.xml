@@ -5,16 +5,20 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/wctm"
-        android:label="@string/branch"
+        android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MainActivity"
+            android:label="@string/branch"
+            android:icon="@drawable/wctm"/>
         <activity android:name=".SubjectsActivity"
             android:label="@string/subjects"
             android:icon="@drawable/wctm"/>

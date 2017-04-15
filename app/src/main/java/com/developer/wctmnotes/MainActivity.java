@@ -12,6 +12,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+
     private ArrayList<String> branches;
     private SemesterAdapter semesterAdapter;
     private ListView listView;
@@ -21,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        setTitle(R.string.branch);
         branches = new ArrayList<>();
         branches.add("CSE");
         branches.add("IT");

@@ -108,9 +108,10 @@ public class TeachersActivity extends AppCompatActivity {
                     public void onClick(DialogInterface dialog, int which) {
                         Intent intent = new Intent(Intent.ACTION_SEND);
                         intent.setType("text/html");
-                        intent.putExtra(Intent.EXTRA_EMAIL, new String[]{"aayush@gmail.com"});
-                        intent.putExtra(Intent.EXTRA_SUBJECT, "Requirement for Subject" + selectedTeachers);
-                        intent.putExtra(Intent.EXTRA_TEXT, "I want the notes for " + selectedTeachers + ". Thank you for your assistance.");
+                        intent.putExtra(Intent.EXTRA_EMAIL, new String[]{"wctmnotes@gmail.com"});
+                        intent.putExtra(Intent.EXTRA_SUBJECT, "Requirement for Subject" + subject +".");
+                        intent.putExtra(Intent.EXTRA_TEXT, "I want the notes by " + selectedTeachers + " for " + subject + ".\n I am from branch : '"+ branch + "' and semeseter : '" + semester + ".\nThank you for your assistance.");
+
 
                         startActivity(Intent.createChooser(intent, "Send Email"));
                     }
@@ -118,12 +119,12 @@ public class TeachersActivity extends AppCompatActivity {
 
                 alertDialog.setButton(DialogInterface.BUTTON_NEUTRAL, "Whatsapp", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int which) {
-                        String smsNumber = "919582257576"; //without '+'
+                        String smsNumber = "918383010922"; //without '+'
                         try {
                             Intent sendIntent = new Intent("android.intent.action.MAIN");
                             sendIntent.setAction(Intent.ACTION_SEND);
                             sendIntent.setType("text/plain");
-                            sendIntent.putExtra(Intent.EXTRA_TEXT, "I want the notes for " + selectedTeachers + ". Thank you for your assistance.");
+                            sendIntent.putExtra(Intent.EXTRA_TEXT, "I want the notes by " + selectedTeachers + " for " + subject + ".\n I am from branch : '"+ branch + "' and semeseter : '" + semester + ".\nThank you for your assistance.");
                             sendIntent.putExtra("jid", smsNumber + "@s.whatsapp.net"); //phone number without "+" prefix
                             sendIntent.setPackage("com.whatsapp");
                             startActivity(sendIntent);

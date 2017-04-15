@@ -50,7 +50,7 @@ public class SemesterAdapter extends ArrayAdapter<String> {
             case "ME": imageView.setImageResource(R.drawable.me);
                 semHeading.setText("Mechanical Engineering");
                 break;
-            case "Civil": imageView.setImageResource(R.drawable.civil);
+            case "Civil": imageView.setImageResource(R.drawable.ce);
                 semHeading.setText("Civil Engineering");
                 break;
             case "BCA": imageView.setImageResource(R.drawable.bca);

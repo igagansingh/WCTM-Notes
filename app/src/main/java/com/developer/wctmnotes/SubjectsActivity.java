@@ -331,7 +331,7 @@ public class SubjectsActivity extends AppCompatActivity {
                     case "Four":
                         subjectsItSemFour = new ArrayList<>();
                         subjectsItSemFour.add("Data Base Management Systems");
-                        subjectsItSemFour.add("Programming Languages");
+                        subjectsItSemFour.add("Economics");
                         subjectsItSemFour.add("Multimedia Technologies");
                         subjectsItSemFour.add("Object-Oriented Programming using C++");
                         subjectsItSemFour.add("Internet Fundamentals");
@@ -357,7 +357,7 @@ public class SubjectsActivity extends AppCompatActivity {
                         subjectsItSemFive.add("Microprocessors and Interfacing ");
                         subjectsItSemFive.add("Computer Graphics ");
                         subjectsItSemFive.add("Computer Networks ");
-                        subjectsItSemFive.add(" Systems Programming & System Administration ");
+                        subjectsItSemFive.add("Systems Programming & System Administration");
                         subjectsItSemFive.add("Rapid Application Development");
 
                         semAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_expandable_list_item_1, subjectsItSemFive);
@@ -377,11 +377,11 @@ public class SubjectsActivity extends AppCompatActivity {
                     case "Six":
                         subjectsItSemSix = new ArrayList<>();
                         subjectsItSemSix.add("Web Development");
-                        subjectsItSemSix.add("Wireless Communication ");
-                        subjectsItSemSix.add(" Intelligent Systems");
-                        subjectsItSemSix.add(" Principles of Software Engineering  ");
+                        subjectsItSemSix.add("Wireless Communication");
+                        subjectsItSemSix.add("Intelligent Systems");
+                        subjectsItSemSix.add("Principles of Software Engineering");
                         subjectsItSemSix.add("Network Programming");
-                        subjectsItSemSix.add("Digital Signal Processing");
+                        subjectsItSemSix.add("Operational Research");
 
                         semAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_expandable_list_item_1, subjectsItSemSix);
                         listView.setAdapter(semAdapter);
@@ -494,8 +494,8 @@ public class SubjectsActivity extends AppCompatActivity {
                         break;
                     case "Four":
                         subjectsEceSemFour = new ArrayList<>();
-                        subjectsEceSemFour.add("ek bacha h");
-                        subjectsEceSemFour.add("Signals Systems");
+                        subjectsEceSemFour.add("Maths 3");
+                        subjectsEceSemFour.add("Signal Systems");
                         subjectsEceSemFour.add("Analog Electronics");
                         subjectsEceSemFour.add("Digital Electronics");
                         subjectsEceSemFour.add("Communication System");
@@ -541,7 +541,7 @@ public class SubjectsActivity extends AppCompatActivity {
                     case "Six":
                         subjectsEceSemSix = new ArrayList<>();
                         subjectsEceSemSix.add("Computer Networks");
-                        subjectsEceSemSix.add("Very Large SCale Integration");
+                        subjectsEceSemSix.add("Very Large Scale Integration");
                         subjectsEceSemSix.add("Digital System Design");
                         subjectsEceSemSix.add("Control System");
                         subjectsEceSemSix.add("Microwave And Radar");
@@ -872,7 +872,7 @@ public class SubjectsActivity extends AppCompatActivity {
                         subjectsMeSemSix.add("Industrial Engg.");
                         subjectsMeSemSix.add("Heat Transfer");
                         subjectsMeSemSix.add("Automobile Engg.");
-                        subjectsMeSemSix.add("Machine Design");
+                        subjectsMeSemSix.add("Machine Design 2");
                         subjectsMeSemSix.add("Measurement And Instrumentation");
                         subjectsMeSemSix.add("Automatic Control System");
 
