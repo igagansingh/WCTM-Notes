@@ -23,6 +23,7 @@ public class SemesterActivity extends AppCompatActivity {
         setContentView(R.layout.activity_semester);
 
         branch = getIntent().getExtras().getString("Branch");
+        final String json = getIntent().getExtras().getString("JSON");
         semesters = new ArrayList<>();
 
         switch(branch){
@@ -61,6 +62,7 @@ public class SemesterActivity extends AppCompatActivity {
                 intent = new Intent(SemesterActivity.this, SubjectsActivity.class);
                 intent.putExtra("Semester", semesters.get(position));
                 intent.putExtra("Branch",branch);
+                intent.putExtra("JSON", json);
                 startActivity(intent);
             }
         });

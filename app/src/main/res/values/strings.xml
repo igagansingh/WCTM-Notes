@@ -4,4 +4,5 @@
     <string name="semester">Semester</string>
     <string name="subjects">Subject</string>
     <string name="teachers">Teachers</string>
+    <string name="url_to_teachers">"gs://wctm-notes-8224f.appspot.com/teachers.json"</string>
 </resources>

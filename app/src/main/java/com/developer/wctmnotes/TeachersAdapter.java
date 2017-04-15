@@ -52,6 +52,6 @@ public class TeachersAdapter extends ArrayAdapter<String> {
     }
 
     ArrayList<String> getSelectedTeachers(){
-        return selectedTeachers;
+            return selectedTeachers;
     }
 }

@@ -3,7 +3,6 @@ package com.developer.wctmnotes;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 
 /**
@@ -15,15 +14,31 @@ public class SplashActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        Handler h = new Handler(){
+        new Handler().postDelayed(new Runnable() {
             @Override
-            public void handleMessage(Message msg) {
-
-                Intent i = new Intent(SplashActivity.this, MainActivity.class);
-                startActivity(i);
+            public void run() {
+                // finish the splash activity so it can't be returned to
+                SplashActivity.this.finish();
+                // create an Intent that will start the second activity
+                Intent mainIntent = new Intent(SplashActivity.this, MainActivity.class);
+                SplashActivity.this.startActivity(mainIntent);
             }
-        };
+        }, 1500);
+    }
 
-        h.sendEmptyMessageDelayed(0, 1500); // 1500 is time in miliseconds
+    @Override
+    protected void onResume() {
+        super.onResume();
+
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                // finish the splash activity so it can't be returned to
+                SplashActivity.this.finish();
+                // create an Intent that will start the second activity
+                Intent mainIntent = new Intent(SplashActivity.this, MainActivity.class);
+                SplashActivity.this.startActivity(mainIntent);
+            }
+        }, 1500);
     }
 }
