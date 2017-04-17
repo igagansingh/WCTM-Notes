@@ -3,93 +3,192 @@
 
     <item
         is-multidex="false"
-        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_67d21e1f80bd542c3749f30aef440d088da32834.jar" />
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.1_a29da4ca0bd443fb51782218490638de80bf7644.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_8172cdd85c180986c2738dedbf392a6308595896.jar" />
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_af416f0a1a9df04f53272efaf1549542dfb3a1da.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_351fb674b2eb661b91289e95785136c8864de65f.jar" />
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.1_37d3554e41bfa57a84ce884a33b666687ce93cdd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_c66309d138597c7c61c26c5b8e8ea52985b4db1f.jar" />
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.2.1_04de45917ac567be302deff46f7e11c1d86b2008.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_18e456e7249526dd1c3ab8e13131709212765fe3.jar" />
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.1_af25c844835bc6fd6954075bce7db108ed950a27.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_a3c4fa75ca6b4417ea870cc759b8704cd3bdc488.jar" />
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.1_0d684d86d6d72b2bfeed2eb0333e34ff6cdd9b0f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_e32812277266c164e231ace222eb4767531d4758.jar" />
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_a7a90acb064c4bd812ced581bb7998ee97af3fe2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_9da164373b24ffc642f988767ca952135d0fc643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_d1da4b77f8064e27e8b5b1dd10c4bf49cdfc4396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.1_2915b20dda2a3a4afa69cb728fa19546e8d28ce6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_1a5988ad52be1045469f4d1be959d620290ece83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.1_0b64862f6d204bb68510d76f323f33279eed84c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_c1cff9cca675c67acb8942ff7683cdb0a9234d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_35223525a54f7366fb107a3893c990a570efafa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_b4ebb62bd6abc17761f15d5774d6b8657353a129.jar" />
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_5577ae7d1ad259b435bc0d4b781180ec62ddf854.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gagan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_f7ed82d275110603c6e1b62b8920f6b1ce1855d0.jar" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_1cf8d0f38ba9b6bc975c3b3d66f6185046a87bc1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_95cdb7dd54f5393a50bc9ef81b9ca9459b5b5884.jar" />
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_20f6026ef83e947c5c0f5a9b5231df006fba7f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.1_b8cd9720c5ffb134812f76493a9d480bc0543c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_f7e4cd36760d7b53115b39cc164264bbeb685efa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.1_ba682158c4af8386e2e39d734976d94efe45200f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/home/gagan/androidprojects/WCTM-Notes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.2.1_9bda4ba353c7ebc62c7ce140611f446f953f87c0.jar" />
     </item>
 
 </items>
